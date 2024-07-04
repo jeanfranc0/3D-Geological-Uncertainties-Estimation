@@ -1,6 +1,6 @@
 # End-to-end Dimensionality Reduction and Regression from 3D Geological Uncertainties to Estimate Oil Reservoir Simulations
 
-This repo implements our paper End-to-end Dimensionality Reduction and Regression from 3D Geological Uncertainties to Estimate Oil Reservoir Simulations.
+This repo implements our paper [*End-to-end Dimensionality Reduction and Regression from 3D Geological Uncertainties to Estimate Oil Reservoir Simulations*](https://www.sciencedirect.com/science/article/pii/S1568494624005738).
 
 This repo explains dependencies, data preprocessing, training and testing for every module of our network:
 
